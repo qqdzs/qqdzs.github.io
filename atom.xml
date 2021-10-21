@@ -1,45 +1,32 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://qqdzs.github.io</id>
-    <title>Gridea</title>
-    <updated>2021-10-21T12:29:05.030Z</updated>
+    <title>斗战 ICU</title>
+    <updated>2021-10-21T14:15:41.260Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://qqdzs.github.io"/>
     <link rel="self" href="https://qqdzs.github.io/atom.xml"/>
-    <subtitle>温故而知新</subtitle>
+    <subtitle>斗战神 代练 日常 强化 一切</subtitle>
     <logo>https://qqdzs.github.io/images/avatar.png</logo>
     <icon>https://qqdzs.github.io/favicon.ico</icon>
-    <rights>All rights reserved 2021, Gridea</rights>
+    <rights>All rights reserved 2021, 斗战 ICU</rights>
     <entry>
-        <title type="html"><![CDATA[Hello Gridea]]></title>
-        <id>https://qqdzs.github.io/post/hello-gridea/</id>
-        <link href="https://qqdzs.github.io/post/hello-gridea/">
+        <title type="html"><![CDATA[受邀去腾讯开发者交流会，MJJ们有没有需要带话的？]]></title>
+        <id>https://qqdzs.github.io/post/shou-yao-qu-teng-xun-kai-fa-zhe-jiao-liu-hui-mjj-men-you-mei-you-xu-yao-dai-hua-de/</id>
+        <link href="https://qqdzs.github.io/post/shou-yao-qu-teng-xun-kai-fa-zhe-jiao-liu-hui-mjj-men-you-mei-you-xu-yao-dai-hua-de/">
         </link>
-        <updated>2018-12-11T16:00:00.000Z</updated>
-        <summary type="html"><![CDATA[<p>👏  欢迎使用 <strong>Gridea</strong> ！<br>
-✍️  <strong>Gridea</strong> 一个静态博客写作客户端。你可以用它来记录你的生活、心情、知识、笔记、创意... ...</p>
-]]></summary>
-        <content type="html"><![CDATA[<p>👏  欢迎使用 <strong>Gridea</strong> ！<br>
-✍️  <strong>Gridea</strong> 一个静态博客写作客户端。你可以用它来记录你的生活、心情、知识、笔记、创意... ...</p>
-<!-- more -->
-<p><a href="https://github.com/getgridea/gridea">Github</a><br>
-<a href="https://gridea.dev/">Gridea 主页</a><br>
-<a href="http://fehey.com/">示例网站</a></p>
-<h2 id="特性">特性</h2>
-<p>📝  你可以使用最酷的 <strong>Markdown</strong> 语法，进行快速创作</p>
-<p>🌉  你可以给文章配上精美的封面图和在文章任意位置插入图片</p>
-<p>🏷️  你可以对文章进行标签分组</p>
-<p>📋  你可以自定义菜单，甚至可以创建外部链接菜单</p>
-<p>💻  你可以在 <strong>Windows</strong>，<strong>MacOS</strong> 或 <strong>Linux</strong> 设备上使用此客户端</p>
-<p>🌎  你可以使用 <strong>𝖦𝗂𝗍𝗁𝗎𝖻 𝖯𝖺𝗀𝖾𝗌</strong> 或 <strong>Coding Pages</strong> 向世界展示，未来将支持更多平台</p>
-<p>💬  你可以进行简单的配置，接入 <a href="https://github.com/gitalk/gitalk">Gitalk</a> 或 <a href="https://github.com/SukkaW/DisqusJS">DisqusJS</a> 评论系统</p>
-<p>🇬🇧  你可以使用<strong>中文简体</strong>或<strong>英语</strong></p>
-<p>🌁  你可以任意使用应用内默认主题或任意第三方主题，强大的主题自定义能力</p>
-<p>🖥  你可以自定义源文件夹，利用 OneDrive、百度网盘、iCloud、Dropbox 等进行多设备同步</p>
-<p>🌱 当然 <strong>Gridea</strong> 还很年轻，有很多不足，但请相信，它会不停向前 🏃</p>
-<p>未来，它一定会成为你离不开的伙伴</p>
-<p>尽情发挥你的才华吧！</p>
-<p>😘 Enjoy~</p>
+        <updated>2021-10-21T13:49:07.000Z</updated>
+        <content type="html"><![CDATA[<p>受邀参加腾讯滨海大厦的开发者交流会（包机酒 ），届时会和良心云的产品经理们深入交流，各位mjj们对良心云轻量的鸡鸡有什么问题或者需求都可以说一说，保证帮大家带到</p>
+<p>PS：主要探讨轻量、CVM、云API这三😆个产品的问题或需求，我CVM、云API用的比较少，如果大家有这俩产品的问题也可以提。<img src="https://qqdzs.github.io/post-images/1634824241322.PNG" alt="" loading="lazy"></p>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[代练]]></title>
+        <id>https://qqdzs.github.io/post/ce-shi/</id>
+        <link href="https://qqdzs.github.io/post/ce-shi/">
+        </link>
+        <updated>2021-10-21T13:47:51.000Z</updated>
+        <content type="html"><![CDATA[<p>代练一切 日常 任务 包月 包天 强化</p>
 ]]></content>
     </entry>
 </feed>
