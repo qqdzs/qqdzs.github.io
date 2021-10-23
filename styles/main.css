@@ -2099,3 +2099,8 @@ span.vat {
   text-align: left;
   padding-left: 2em;
 }
+
+    .leancloud_visitors{
+        display:none;
+      }
+    
